@@ -8,7 +8,7 @@ You have to guess a _secret number_ between _1 and 20. With each guess, you'll r
 
 ## 🚀 Live Demo
 
-[Play the Game Here](https://your-live-demo-link.com)
+[Play the Game Here]([https://your-live-demo-link.com](https://ahmedmostafa-io.github.io/Guess-MY-Number/))
 
 ## 📸 Screenshot
 
@@ -39,7 +39,7 @@ guess-my-number/ │ ├── index.html # Main HTML structure ├── style.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ahmedmostafa-io/guess-my-number.git
+git clone https://[github.com/ahmedmostafa-io/guess-my-number.git](https://github.com/ahmedmostafa-io/Guess-MY-Number)
 
 2. Open the folder in your code editor
 
