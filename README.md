@@ -8,7 +8,7 @@ You have to guess a _secret number_ between _1 and 20. With each guess, you'll r
 
 ## 🚀 Live Demo
 
-[Play the Game Here]([https://your-live-demo-link.com](https://ahmedmostafa-io.github.io/Guess-MY-Number/))
+([https://your-live-demo-link.com](https://ahmedmostafa-io.github.io/Guess-MY-Number/))
 
 ## 📸 Screenshot
 
